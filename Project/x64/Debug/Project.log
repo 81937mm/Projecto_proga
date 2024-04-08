@@ -1,0 +1,10 @@
+﻿  App.cpp
+  Interfaz.cpp
+C:\Users\Manuel Andree\source\repos\Project\Project\Interfaz.cpp(9,38): warning C4305: 'argumento': truncamiento de 'int' a 'wxColourBase::ChannelType'
+C:\Users\Manuel Andree\source\repos\Project\Project\Interfaz.cpp(9,38): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Manuel Andree\source\repos\Project\Project\Interfaz.cpp(13,41): warning C4305: 'argumento': truncamiento de 'int' a 'wxColourBase::ChannelType'
+C:\Users\Manuel Andree\source\repos\Project\Project\Interfaz.cpp(13,41): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Manuel Andree\source\repos\Project\Project\Interfaz.cpp(26,44): warning C4305: 'argumento': truncamiento de 'int' a 'wxColourBase::ChannelType'
+C:\Users\Manuel Andree\source\repos\Project\Project\Interfaz.cpp(26,44): warning C4309: 'argumento': truncamiento de valor constante
+  Generando código...
+  Project.vcxproj -> C:\Users\Manuel Andree\source\repos\Project\x64\Debug\Project.exe
