@@ -3,8 +3,9 @@
 #include <wx/wx.h>
 
 wxIMPLEMENT_APP(App);
+
 bool App::OnInit() {
-	Interfaz* interfaz = new Interfaz("C++ GUI");
+	Interfaz* interfaz = new Interfaz("Treasure Hunt");
 	interfaz->SetClientSize(900,600);
 	interfaz->Center();
 	interfaz->Show(true);
