@@ -1,6 +1,5 @@
 #pragma once
 #include <wx/wx.h>
-#include <wx/sizer.h>
 
 class Interfaz : public wxFrame
 {

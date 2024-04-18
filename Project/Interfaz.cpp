@@ -1,6 +1,5 @@
 #include "Interfaz.h"
 #include <wx/wx.h>
-#include <wx/sizer.h>
 
 wxBEGIN_EVENT_TABLE(Interfaz, wxFrame)
 wxEND_EVENT_TABLE();
@@ -99,8 +98,6 @@ void Interfaz::OnButtonClicked(wxCommandEvent& evt)
 Interfaz::~Interfaz()
 {
 	delete[]btn;
-	//quitar el treasure
 }
-//detectar que tan cerca estas
-// menu bar
+
 
